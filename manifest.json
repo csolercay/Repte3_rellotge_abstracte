@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Rellotge Abstracte",
+  "version": "1.0",
+  "description": "Una representació abstracta del pas del temps amb p5.js",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png"
+    }
+  }
+}
