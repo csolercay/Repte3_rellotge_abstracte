@@ -1,6 +1,6 @@
 # Rellotge Abstracte
 
-Extensió per a Firefox creada amb **p5.js**, que representa el pas del temps de manera **abstracta** a través de punts i línies connectades.
+Extensió per a Firefox creada amb p5.js, que representa el pas del temps de manera abstracta a través de punts i línies connectades.
 
 ## Característiques
 - Representació visual del temps
